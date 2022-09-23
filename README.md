@@ -1,4 +1,14 @@
 ### Hi there 👋
+### 这里是Zoe的GitHub空间♾️
+
+- 数据汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Zoezz3&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+
+### Get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Zoezz3)
+
 
 <!--
 **Zoezz3/Zoezz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
