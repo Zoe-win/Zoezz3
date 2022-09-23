@@ -1,9 +1,10 @@
 ### Hi there 👋
-### 这里是Zoe的GitHub空间♾️
+### 这里是Zoe的GitHub空间♾
 
 - 数据汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Zoezz3&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Zoezz3&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+
 
 ### Get in touch
 
@@ -23,4 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoezz3&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoezz3&show_icons=true&theme=radical)
 -->
